@@ -1,2 +1,2 @@
 # hello-world
-el aburrimiento me invade, por es hago esto
+el aburrimiento me invade, por eso hago esto
